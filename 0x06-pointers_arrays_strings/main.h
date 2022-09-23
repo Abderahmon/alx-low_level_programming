@@ -1,5 +1,10 @@
 #ifndef FILE_MAIN
 #define FILE_MAIN
+/**
+ * void prototypes()
+ * int prototypes()
+ * char prototypes()
+ */
 
 int _putchar(char c);
 char *_strcat(char *dest, char *src);
