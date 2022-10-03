@@ -7,7 +7,7 @@
  * @grid: The grid we'll free up
  * @height: The number of rows in the grid
  *
- * return: Nothing 
+ * return: Nothing
  */
 
 void free_grid(int **grid, int height)
