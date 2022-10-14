@@ -1,6 +1,5 @@
-#ifndef _4-SUM_
-#define _4-SUM_
-
+#ifndef _4-SUM
+#define _4-SUM
 #define SUM(x, y) ((x) + (y))
 
 #endif
