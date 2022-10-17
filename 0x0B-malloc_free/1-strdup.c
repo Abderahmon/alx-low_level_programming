@@ -14,7 +14,7 @@ char *_strdup(char *str)
 {
 	char *alloc_mem;
 	unsigned int i;
-	unsigned int length_of_string = 0
+	unsigned int length_of_string = 0;
 
 		if (str == NULL)
 			return ('\0');
